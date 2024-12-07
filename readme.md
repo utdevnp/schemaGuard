@@ -19,7 +19,7 @@ Clone the repository and install the necessary dependencies:
 
 1. Clone this repository:
 
-   `git clone https://github.com/your-username/json-payload-validator.git`
+   `git clone https://github.com/utdevnp/schemaGuard.git`
 
 2. Navigate to the project directory:
 
