@@ -11,7 +11,7 @@ This tool validates JSON payloads against defined schemas using the powerful [AJ
 - **Real-Time Validation**: Perform validation with a single click to check for all issues in one go.
 
 ## Try Here 
-Github pages link (https://utdevnp.github.io/schemaGuard/)
+Github pages link <a href="https://utdevnp.github.io/schemaGuard" target="_blank">https://utdevnp.github.io/schemaGuard</a>
 
 ## Installation
 
