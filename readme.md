@@ -44,9 +44,11 @@ Clone the repository and install the necessary dependencies:
     "age": 30
   }
 }
+```
 
-schema
+### Schema 
 
+``` json
 {
   "type": "object",
   "properties": {
@@ -59,7 +61,9 @@ schema
       "required": ["name", "age"]
     }
   }
-}```
+}
+
+```
 
 ## Contribution
 
