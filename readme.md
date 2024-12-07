@@ -23,7 +23,7 @@ Clone the repository and install the necessary dependencies:
 
 2. Navigate to the project directory:
 
-   `cd json-payload-validator`
+   `cd schemaGuard`
 
 3. Run project:
 
